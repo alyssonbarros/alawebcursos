@@ -1,0 +1,1 @@
+web: gunicorn alawebcursos.wsgi --log-file -
